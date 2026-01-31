@@ -1,4 +1,5 @@
 # Sample-repo
 
 これは練習用のリポジトリーです。
-change README on feature/practice branch.
+ローカルリポで変更
+rebase-pricticeブランチで更新（rebase用)
