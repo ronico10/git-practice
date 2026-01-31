@@ -2,4 +2,4 @@
 
 これは練習用のリポジトリーです。
 ローカルリポで変更
-mainブランチで更新（rebase conflict用)
+rebase-pricticeブランチで更新（rebase conflict用)
